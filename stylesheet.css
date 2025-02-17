@@ -1,0 +1,45 @@
+
+.center-text {
+    text-align: center;
+
+}
+
+h1 {
+    color:darkgreen;
+}
+
+h2 {
+    color: black;
+    font-family: "Trebuchet MS";
+
+}
+
+body {
+    background-color: #d092ed;
+    font-family: "Courier New";
+}
+
+ul {
+    font-size:large;
+}
+
+.box-one {
+    padding: 20px;
+    margin: auto, auto;
+    border: 5px black;
+    background-color: green;
+    width: fit-content;
+    text-align: center;
+    display: inline-block;
+}
+
+.box-two {
+    padding: 20px;
+    margin: auto, auto;
+    border: 5px black;
+    background-color: rgb(255, 191, 102);
+    width: fit-content;
+    text-align: center;
+    display: inline-block;
+}
+
