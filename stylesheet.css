@@ -35,7 +35,7 @@ header {
     text-align: center;
     padding: 0px 0px 0px 0px;
     border: 10px solid black;
-    margin: 50px 200px;
+    margin: 50px 300px;
     display: flex;
     justify-content: center; /* Centers horizontally */
     align-items: center;
@@ -51,7 +51,7 @@ header {
     justify-content: center;
     align-items: center;
     border: 10px solid White;
-    margin: 0px 250px;
+    margin: 0px 350px;
     padding: 10px
     
 
@@ -63,7 +63,7 @@ header {
     height: 150px;
     padding: 0px 0px 0px 0px;
     border: 10px solid black;
-    margin: -300px 750px;
+    margin: -300px 850px;
     text-align: center;
     display: flex;
     justify-content: center; /* Centers horizontally */
@@ -76,7 +76,7 @@ header {
     width: 300px;
     height: 400px;
     padding: 10px 40px 10px 150px;
-    margin: 500px 790px;
+    margin: 500px 890px;
     border: 10px solid white;
     display: flex;
     justify-content: center; /* Centers images horizontally */
@@ -92,7 +92,7 @@ header {
     height: 170px;
     padding: 0px 0px 0px 0px;
     border: 10px solid black;
-    margin: -800px 0px 500px 200px;
+    margin: -800px 200px 500px 300px;
     text-align: center;
     display: flex;
     justify-content: center; /* Centers horizontally */
@@ -108,7 +108,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: -320px 0px 500px 250px;
+    margin: -320px 0px 500px 350px;
 }
 
 .box7 {
@@ -117,7 +117,7 @@ header {
     height: 175px;
     padding: 0px 0px 0px 0px;
     border: 10px solid Black;
-    margin: -800px 0px 500px 750px;
+    margin: -800px 0px 500px 850px;
     text-align: center;
     display: flex;
     justify-content: center; /* Centers horizontally */
@@ -132,7 +132,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: -300px 0px 500px 850px;
+    margin: -300px 0px 500px 950px;
 
 }
 
@@ -142,7 +142,7 @@ header {
     height: 175px;
     padding: 0px 0px 0px 0px;
     border: 10px solid black;
-    margin: -800px 0px 500px 250px;
+    margin: -800px 0px 500px 350px;
     text-align: center;
     display: flex;
     justify-content: center; /* Centers horizontally */
@@ -152,7 +152,7 @@ header {
 
 
 .box11 {
-    margin: -2250px 100px 100px 880px;
+    margin: -2250px 100px 100px 980px;
     width: 400px;
     height: 300px;
     font-size: 1.8rem;
@@ -163,7 +163,7 @@ header {
 }
 
 .box12 {
-    margin: 220px 0px 0px 210px;
+    margin: 220px 0px 0px 310px;
     width: 600px;
     height: 300px;
     font-size: 1.5rem;
@@ -173,7 +173,7 @@ header {
 }
 
 .box13 {
-    margin: 185px 0px 0px 950px;
+    margin: 185px 0px 0px 1050px;
     width: 600px;
     height: 300px;
     font-size: 1.8rem;
@@ -183,7 +183,7 @@ header {
 }
 
 .box14 {
-    margin: 215px 0px 0px 400px;
+    margin: 215px 0px 0px 500px;
     width: 600px;
     height: 300px;
     font-size: 1.8rem;
@@ -199,7 +199,7 @@ header {
     padding: 0px 0px 0px 0px;
     text-align: center;
     border: 10px solid black;
-    margin: 150px 300px 100px 350px;
+    margin: 150px 300px 100px 450px;
     display: flex;
     justify-content: center; /* Centers horizontally */
     align-items: center;
