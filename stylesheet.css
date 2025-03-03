@@ -133,6 +133,48 @@ header {
     text-align: center;
 }
 
+
+
+.box11 {
+    margin: -2325px 100px 100px 880px;
+    width: 400px;
+    height: 300px;
+    font-size: 1.8rem;
+    color: #574307;
+    -webkit-text-stroke: .5px #1F8509;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.box12 {
+    margin: 240px 0px 0px 210px;
+    width: 600px;
+    height: 300px;
+    font-size: 1.5rem;
+    color: #574307;
+    -webkit-text-stroke: .5px #1F8509;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.box13 {
+    margin: 205px 0px 0px 950px;
+    width: 600px;
+    height: 300px;
+    font-size: 1.8rem;
+    color: #574307;
+    -webkit-text-stroke: .5px #1F8509;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.box14 {
+    margin: 233px 0px 0px 400px;
+    width: 600px;
+    height: 300px;
+    font-size: 1.8rem;
+    color: #574307;
+    -webkit-text-stroke: .5px #1F8509;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
 .box10 {
     background-color: white;
     width: 800px;
@@ -140,9 +182,10 @@ header {
     padding: 0px 0px 0px 0px;
     text-align: center;
     border: 10px solid black;
-    margin: -250px 300px 100px 350px
+    margin: 150px 300px 100px 350px
 
 }
+
 
 p {
     color: #1E4F24;
