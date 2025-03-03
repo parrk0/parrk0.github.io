@@ -7,14 +7,21 @@ body {
 
 header {
     text-align: center;
-    padding: 25px;
-    font-size: 2rem;
+    padding: 5px 0px -10px 0px;
+    font-size: 2.5rem;
+    color: #574307;
+    -webkit-text-stroke: 2px #1F8509;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
 }
 
 .navbar {
     background-color:black;
     text-align: center;
-    padding: 10px;
+    padding: 20px;
+    font: bold;
+    word-spacing: 175px;
+    
 
 
 }
@@ -25,7 +32,7 @@ header {
     width: 1100px;
     height: 120px;
     text-align: center;
-    padding: 10px;
+    padding: 0px 0px 30px 0px;
     border: 10px solid black;
     margin: 50px 200px
 
@@ -49,9 +56,10 @@ header {
     background-color: white;
     width: 500px;
     height: 150px;
-    padding: 10px;
+    padding: 0px 0px 30px 0px;
     border: 10px solid black;
-    margin: -300px 750px
+    margin: -300px 750px;
+    text-align: center;
 
 }
 
@@ -65,7 +73,7 @@ header {
     display: flex;
     justify-content: center; /* Centers images horizontally */
     align-items: center; /* Aligns images vertically */
-    gap: 1px;
+    
 
     
 }
@@ -74,9 +82,10 @@ header {
     background-color: white;
     width: 500px;
     height: 150px;
-    padding: 10px;
+    padding: 0px 0px 30px 0px;
     border: 10px solid black;
     margin: -800px 0px 500px 200px;
+    text-align: center;
 
 }
 
@@ -91,5 +100,50 @@ header {
     margin: -320px 0px 500px 250px;
 }
 
+.box7 {
+    background-color: white;
+    width: 500px;
+    height: 150px;
+    padding: 0px 0px 40px 0px;
+    border: 10px solid Black;
+    margin: -800px 0px 500px 750px;
+    text-align: center;
+}
 
+.box8 {
+    background-color: black;
+    width: 400px;
+    height: 400px;
+    border: 10px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: -300px 0px 500px 850px;
 
+}
+
+.box9 {
+    background-color: white;
+    width: 500px;
+    height: 150px;
+    padding: 0px 0px 40px 0px;
+    border: 10px solid black;
+    margin: -800px 0px 500px 250px;
+    text-align: center;
+}
+
+.box10 {
+    background-color: white;
+    width: 800px;
+    height: 100px;
+    padding: 0px 0px 0px 0px;
+    text-align: center;
+    border: 10px solid black;
+    margin: -250px 300px 100px 350px
+
+}
+
+p {
+    color: #1E4F24;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
