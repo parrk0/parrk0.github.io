@@ -1,45 +1,57 @@
-
-.center-text {
-    text-align: center;
-
-}
-
-h1 {
-    color:darkgreen;
-}
-
-h2 {
-    color: black;
-    font-family: "Trebuchet MS";
-
-}
-
 body {
-    background-color: #d092ed;
-    font-family: "Courier New";
+    margin: 0;
+    background-color: #242F51;
 }
 
-ul {
-    font-size:large;
-}
 
-.box-one {
-    padding: 20px;
-    margin: auto, auto;
-    border: 5px black;
-    background-color: green;
-    width: fit-content;
+
+header {
     text-align: center;
-    display: inline-block;
+    padding: 25px;
+    font-size: 2rem;
 }
 
-.box-two {
-    padding: 20px;
-    margin: auto, auto;
-    border: 5px black;
-    background-color: rgb(255, 191, 102);
-    width: fit-content;
+.navbar {
+    background-color:black;
     text-align: center;
-    display: inline-block;
+    padding: 10px;
+
+
 }
+
+.box1 {
+    font-size: 1.2rem;
+    background-color: White;
+    width: 1100px;
+    height: 120px;
+    text-align: center;
+    padding: 10px;
+    border: 10px solid black;
+    margin: 50px 200px
+
+}
+
+.box2 {
+    background-color: Black;
+    width: 300px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 10px solid White;
+    margin: 0px 250px
+    
+
+}
+
+.box3 {
+    background-color: white;
+    width: 500px;
+    height: 150px;
+    padding: 10px;
+    border: 10px solid black;
+    margin: -300px 750px
+
+}
+
 
