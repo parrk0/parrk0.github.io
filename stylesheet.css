@@ -10,7 +10,7 @@ header {
     padding: 5px 0px -10px 0px;
     font-size: 2.5rem;
     color: #574307;
-    -webkit-text-stroke: 1px #1F8509;
+    -webkit-text-stroke: .5px #1F8509;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     
 }
@@ -60,7 +60,7 @@ header {
 .box3 {
     background-color: white;
     width: 500px;
-    height: 170px;
+    height: 200px;
     padding: 0px 0px 0px 0px;
     border: 10px solid black;
     margin: -300px 950px;
@@ -75,8 +75,8 @@ header {
     background-color: Black;
     width: 300px;
     height: 400px;
-    padding: 10px 40px 10px 250px;
-    margin: 500px 890px;
+    padding: 10px 40px 10px 200px;
+    margin: 500px 950px;
     border: 10px solid white;
     display: flex;
     justify-content: center; /* Centers images horizontally */
@@ -89,7 +89,7 @@ header {
 .box5 {
     background-color: white;
     width: 500px;
-    height: 190px;
+    height: 220px;
     padding: 0px 0px 0px 0px;
     border: 10px solid black;
     margin: -800px 200px 500px 400px;
@@ -114,7 +114,7 @@ header {
 .box7 {
     background-color: white;
     width: 500px;
-    height: 195px;
+    height: 225px;
     padding: 0px 0px 0px 0px;
     border: 10px solid Black;
     margin: -800px 0px 500px 950px;
@@ -139,7 +139,7 @@ header {
 .box9 {
     background-color: white;
     width: 500px;
-    height: 195px;
+    height: 225px;
     padding: 0px 0px 0px 0px;
     border: 10px solid black;
     margin: -800px 0px 500px 450px;
@@ -152,7 +152,7 @@ header {
 
 
 .box11 {
-    margin: -2325px 100px 100px 1080px;
+    margin: -2450px 100px 100px 1080px;
     width: 400px;
     height: 300px;
     font-size: 1.8rem;
@@ -163,7 +163,7 @@ header {
 }
 
 .box12 {
-    margin: 230px 0px 0px 410px;
+    margin: 270px 0px 0px 410px;
     width: 600px;
     height: 300px;
     font-size: 1.5rem;
@@ -173,7 +173,7 @@ header {
 }
 
 .box13 {
-    margin: 210px 0px 0px 1150px;
+    margin: 230px 0px 0px 1150px;
     width: 600px;
     height: 300px;
     font-size: 1.8rem;
@@ -183,7 +183,7 @@ header {
 }
 
 .box14 {
-    margin: 230px 0px 0px 600px;
+    margin: 260px 0px 0px 600px;
     width: 600px;
     height: 300px;
     font-size: 1.8rem;
@@ -199,7 +199,7 @@ header {
     padding: 0px 0px 0px 0px;
     text-align: center;
     border: 10px solid black;
-    margin: 150px 300px 100px 550px;
+    margin: 170px 300px 100px 550px;
     display: flex;
     justify-content: center; /* Centers horizontally */
     align-items: center;
